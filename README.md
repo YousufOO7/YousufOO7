@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as ...Front end developer<br>- 📚 I'm currently learning ...MOngoDB<br>- ⚡ In my free time...I like to watch anime</p>
+<p align="left">- 🔭 I’m working as ...Front end developer<br>- 📚 I'm currently learning ...MySQL<br>- ⚡ In my free time...I like to watch anime</p>
 
 ###
 
